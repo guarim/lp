@@ -191,7 +191,7 @@ section{
   position: relative;
   background-color: transparent;
   box-shadow: none;
-  width: 100vw;
+  width: 80vw;
   pointer-events: none;
   min-height: 50vh;
   padding-bottom: 0em;
