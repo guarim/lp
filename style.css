@@ -52,7 +52,7 @@ nav span{
   color: white;
   transition: .5s;
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1080px) {
   nav a, nav span{
     font-size: .5em;
   }
@@ -149,7 +149,7 @@ ul li span{
 
 #maincontainer{
   width: 100%;
-  height: calc(100vh - var(--nav-height));
+  height: calc(80vh - var(--nav-height));
   background-color: transparent;
   position: absolute;
   left: 0;
